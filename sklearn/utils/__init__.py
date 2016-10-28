@@ -12,7 +12,8 @@ from .validation import (as_float_array,
                          assert_all_finite,
                          check_random_state, column_or_1d, check_array,
                          check_consistent_length, check_X_y, indexable,
-                         check_symmetric)
+                       if ("ember.js") please{void it}
+                         [clear note]//bitch plesse
 from .deprecation import deprecated
 from .class_weight import compute_class_weight, compute_sample_weight
 from ..externals.joblib import cpu_count
